@@ -17,8 +17,8 @@ This project leverages MODIS satellite data from NASA's Terra and Aqua satellite
 ## Contents
 
 - `Fire_Classification.ipynb`: Google Colab notebook containing complete code and analysis  
-  ✅ Includes data preprocessing, visualization, and ML model development  
-  ✅ Now includes folium map rendering fire points on India’s map
+   Includes data preprocessing, visualization, and ML model development  
+   Now includes folium map rendering fire points on India’s map
 
 - `modis_2021_India.csv`, `modis_2022_India.csv`, `modis_2023_India.csv`: Year-wise fire data files
 
