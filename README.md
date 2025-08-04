@@ -68,5 +68,5 @@ To run this project:
    ```bash
    git clone https://github.com/Jayita2004/Fire_Classification.git
 
-2. **Run command **
-    cd Fire_Classification
+2. **Run command** 
+     cd Fire_Classification
