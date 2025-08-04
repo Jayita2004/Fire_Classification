@@ -46,8 +46,6 @@ The trained model files (`.pkl`) exceed GitHub’s 100MB file size limit.
 To avoid repository bloat and comply with GitHub storage policies, they are hosted externally.  
 This ensures that the repository remains clean and easy to clone.
 
----
-
 ## 📥 Download Pre-trained Models
 
 You can download the trained models here:
