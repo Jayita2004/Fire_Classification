@@ -4,17 +4,18 @@ This project leverages MODIS satellite data from NASA's Terra and Aqua satellite
 
 ---
 
-## 📝 Overview
+## Overview
 
 - **Data Source:** MODIS (via NASA FIRMS)  
 - **Time Period:** 2021 to 2023  
 - **Region:** India  
 - **Objective:** Automatically classify fire types (e.g., vegetation, agriculture, volcanic, etc.)  
 - **Tools & Libraries:** Python, Pandas, Seaborn, Scikit-learn, XGBoost, Folium
+- **Deployment(Locally):** Streamlit 
 
 ---
 
-## 📂 Contents
+## Contents
 
 - `Fire_Classification.ipynb` — Complete code and analysis notebook  
   Includes data preprocessing, visualization, model training, and mapping of fire incidents
@@ -24,7 +25,7 @@ This project leverages MODIS satellite data from NASA's Terra and Aqua satellite
 
 ---
 
-## ✅ Project Completion Summary
+## Project Completion Summary
 
 This project has successfully:
 
@@ -41,13 +42,13 @@ This project has successfully:
 
 ---
 
-## 🚫 Why Model Files Are Not in This Repository
+## Why Model Files Are Not in This Repository
 
 The trained model files (`.pkl`) exceed GitHub’s 100MB file size limit.  
 To avoid repository bloat and comply with GitHub storage policies, they are hosted externally.  
 This ensures that the repository remains clean and easy to clone.
 
-## 📥 Download Pre-trained Models
+## Download Pre-trained Models
 
 You can download the trained models here:
 
@@ -59,7 +60,7 @@ After downloading, place them in the project root folder to use for inference.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To run this project:
 
