@@ -39,6 +39,7 @@ This project has successfully:
 - Visualized fire incidents across India using **folium**
 - Achieved satisfactory model performance metrics (accuracy, confusion matrix, classification report)
 
+---
 
 ## 🚫 Why Model Files Are Not in This Repository
 
